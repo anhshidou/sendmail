@@ -13,9 +13,9 @@ namespace fs = filesystem;
 
 // Config
 constexpr uintmax_t MAX_FILE_SIZE = 24990000;
-const string MAIL_ADDRESS = "ranin.fox.87@gmail.com";
+const string MAIL_ADDRESS = ""; // add your mail
 const string MAIL_SUBJECT = "File Attachment Retrieval";
-const string APP_PASSWORD = "qifb zixn crgr rlcw";
+const string APP_PASSWORD = ""; // add you app password
 
 // Structs
 struct FileEntry {
